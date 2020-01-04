@@ -23,8 +23,8 @@ ________________________________________________________________________________
     
     | Uname | Upass | Urole |    
     | ----- | ----- | ----- |    
-    | admin | admin | A |    
-    | user  | user  | U |    
+    | admin | admin | A     |    
+    | user  | user  | U     |    
   
   3.Open **IIS** And follow the steps:-
   - Add new Website.
