@@ -20,10 +20,10 @@ ________________________________________________________________________________
     
   2.Import the EmpDB.sql File into Your MSSQL Server Database Using VS2017 And Add Sample Data.
     -For Eg. 
-    -  Uname | Upass | Urole
------------- | -------------
-       admin | admin | A
-        user | user | U
+    | Uname | Upass | Urole |
+    | ----- | ----- | ----- |
+    | admin | admin | A |
+    | user  | user  | U |
   
   3.Open **IIS** And follow the steps:-
   - Add new Website.
